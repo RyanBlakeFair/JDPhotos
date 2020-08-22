@@ -1,0 +1,16 @@
+grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(10rem, 1fr));
+  padding: 0.5rem;
+  grid-gap: 0.5rem;
+  margin-top: 5rem;
+
+  img {
+    transition: 500ms ease;
+    &:hover {
+      transform: translateY(-10px);
+    }
+    border: 5px solid var(--bg-primary);
+    width: 100%;
+  }
+}

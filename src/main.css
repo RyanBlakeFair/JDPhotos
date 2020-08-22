@@ -1,0 +1,22 @@
+grid {
+  display: -ms-grid;
+  display: grid;
+  -ms-grid-columns: (minmax(10rem, 1fr))[auto-fit];
+      grid-template-columns: repeat(auto-fit, minmax(10rem, 1fr));
+  padding: 0.5rem;
+  grid-gap: 0.5rem;
+  margin-top: 5rem;
+}
+
+grid img {
+  -webkit-transition: 500ms ease;
+  transition: 500ms ease;
+  border: 5px solid var(--bg-primary);
+  width: 100%;
+}
+
+grid img:hover {
+  -webkit-transform: translateY(-10px);
+          transform: translateY(-10px);
+}
+/*# sourceMappingURL=main.css.map */
