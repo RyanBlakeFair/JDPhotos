@@ -78,12 +78,8 @@ body::-webkit-scrollbar-thumb {
 }
 
 @media (min-width: 3000px) {
-  .navbar {
-    width: 10rem;
-    height: 100%;
-    position: fixed;
-    background-color: var(--bg-primary);
-    transition: 200ms ease;
+  .avatar {
+    width: 15% !important;
   }
 
   .nav-link svg {
