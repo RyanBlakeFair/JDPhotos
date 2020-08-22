@@ -35,7 +35,7 @@ export default function Videos() {
         src="https://fontmeme.com/permalink/200730/44ae1bc3fc3181dbc145d8e7bd9744e7.png"
         alt="calligraphy-fonts"
         border="0"
-        style={{ width: "30%" }}
+        style={{ width: "20%" }}
       />
       <p style={{ textShadow: "2px 2px #000" }}>
         Check out some of my latest projects!

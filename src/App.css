@@ -81,10 +81,6 @@ body::-webkit-scrollbar-thumb {
     width: 15% !important;
   }
 
-  .nav-link svg {
-    min-width: 2rem;
-    margin: 0 4rem !important;
-  }
 }
 
 .navbar-nav {

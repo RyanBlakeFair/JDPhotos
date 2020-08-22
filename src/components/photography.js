@@ -11,7 +11,7 @@ export default function Photos() {
           src="https://fontmeme.com/permalink/200730/8ff684abb98311c732d57972f99973f5.png"
           alt="calligraphy-fonts"
           border="0"
-          style={{ width: "30%" }}
+          style={{ width: "20%" }}
         />
 
         <p style={{ textShadow: "2px 2px #000" }}>
