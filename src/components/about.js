@@ -42,6 +42,9 @@ export default function About() {
             I have professional experience photographing events, as well as paid
             product photography for international businesses.
           </p>
+          <p style={{ textShadow: "2px 2px #000" }}>
+            Hello
+          </p>
         </div>
       </div>
     </section>
