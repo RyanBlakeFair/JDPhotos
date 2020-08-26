@@ -33,7 +33,7 @@ export default function About() {
           <h1 style={{ textShadow: "2px 2px #000" }}>Joshua Dalton</h1>
           <p style={{ textShadow: "2px 2px #000" }}>
             Everyone loves stories. For me, my camera is a tool that I can use
-            to breath new life into the stories we experience. Whether that is
+            to breathe new life into the stories we experience. Whether that is
             through my creative work and my videos, or something as simple as
             capturing moments in time to look back on and remind us of the
             emotions we felt. Memories fade, but images are forever.
@@ -41,9 +41,6 @@ export default function About() {
           <p style={{ textShadow: "2px 2px #000" }}>
             I have professional experience photographing events, as well as paid
             product photography for international businesses.
-          </p>
-          <p style={{ textShadow: "2px 2px #000" }}>
-            Hello
           </p>
         </div>
       </div>
