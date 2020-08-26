@@ -48,7 +48,7 @@ export default function Nav() {
                 ></path>
               </g>
             </svg>
-            <span className="link-text">Experience</span>
+            <span className="link-text">About</span>
           </a>
         </li>
 
