@@ -32,15 +32,16 @@ export default function About() {
         >
           <h1 style={{ textShadow: "2px 2px #000" }}>Joshua Dalton</h1>
           <p style={{ textShadow: "2px 2px #000" }}>
-            Everyone loves stories. For me, my camera is a tool that I can use
-            to breathe new life into the stories we experience. Whether that is
-            through my creative work and my videos, or something as simple as
-            capturing moments in time to look back on and remind us of the
-            emotions we felt. Memories fade, but images are forever.
+            For me, my camera is a storytelling tool. I love being able to create compelling media 
+            that draws people into the story behind it. Whether that's through the attention to detail 
+            featured in a product video or capturing events in a way that makes people feel as though 
+            they were there. So much media is consumed online in this day and age, and I pride myself 
+            on being able to create visuals that stand out from the crowd.
           </p>
           <p style={{ textShadow: "2px 2px #000" }}>
-            I have professional experience photographing events, as well as paid
-            product photography for international businesses.
+            Photographer/Videographer based in Auckland, New Zealand. I have professional experience 
+            shooting photo and video of products and events for everyone from day to day clients to 
+            multinational corporations. I specialise in product videos, portrait shoots and event coverage.
           </p>
         </div>
       </div>
