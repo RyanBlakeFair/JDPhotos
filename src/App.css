@@ -169,7 +169,7 @@ body::-webkit-scrollbar-thumb {
 
 /* -----------------------HOME----------------------------- */
 section#home {
-  background: url(images/lulu.jpg) center center/ cover repeat fixed;
+  background: url(images/trees.jpg) center center/ cover repeat fixed;
   height: 100vh;
 }
 
