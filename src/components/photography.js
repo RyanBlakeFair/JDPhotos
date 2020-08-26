@@ -34,7 +34,7 @@ export default function Photos() {
           ></img>
 
           <img
-            src="https://instagram.fchc2-1.fna.fbcdn.net/v/t51.2885-15/e35/p1080x1080/109815656_307075417342014_1483191318302649783_n.jpg?_nc_ht=instagram.fchc2-1.fna.fbcdn.net&_nc_cat=106&_nc_ohc=Xbbzrk5o8gkAX-t5ykZ&oh=69aa864cd379ce6a3812e05aca4a13bb&oe=5F67D0E6"
+            src="https://instagram.fakl5-1.fna.fbcdn.net/v/t51.2885-15/e35/p1080x1080/109774359_159096299097363_4729038371639079308_n.jpg?_nc_ht=instagram.fakl5-1.fna.fbcdn.net&_nc_cat=103&_nc_ohc=EMGdUWf_2HYAX_r_kEY&oh=d1dab4d9e718f0c829c6d60bccbede2f&oe=5F6FDB96"
             alt="gridPic"
           ></img>
 
