@@ -54,7 +54,7 @@ export default function Contact() {
             <h3>Joshua Dalton</h3>
             <ul>
               <li>
-                <i className="fa fa-phone"></i> 021 176 0342
+                <i className="fa fa-phone"></i> (+64) 021 176 0342
               </li>
               <li>
                 <i className="fa fa-envelope-o">
