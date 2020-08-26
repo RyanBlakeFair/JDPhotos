@@ -18,7 +18,7 @@ export default function Home() {
           </li>
           <li>
             <a
-              href="https://www.instagram.com/joshuadaltonphotography/?hl=en"
+              href="https://www.instagram.com/joshuadaltonmedia/?hl=en"
               target="_blank"
               rel="noopener noreferrer"
             >
