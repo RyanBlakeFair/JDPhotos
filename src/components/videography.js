@@ -1,5 +1,8 @@
 import React, { useState, useEffect } from "react";
 import "../App.css";
+import Aos from "aos";
+import "aos/dist/aos.css";
+
 let Parser = require("rss-parser");
 let parser = new Parser();
 
@@ -11,6 +14,7 @@ async function getVideos(links, setLinks) {
     .splice(0, 3)
     .map((item, index) => (
       <iframe
+        data-aos="fade-up"
         key={index}
         title="video"
         className="videos"
@@ -22,6 +26,10 @@ async function getVideos(links, setLinks) {
 }
 
 export default function Videos() {
+  useEffect(() => {
+    Aos.init({ duration: 2000 });
+  }, []);
+
   const [links, setLinks] = useState([]);
 
   useEffect((links) => {

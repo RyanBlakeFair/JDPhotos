@@ -1,8 +1,14 @@
-import React from "react";
+import React, { useEffect } from "react";
 import "../App.css";
 import "../main.css";
+import Aos from "aos";
+import "aos/dist/aos.css";
 
 export default function Photos() {
+  useEffect(() => {
+    Aos.init({ duration: 2000 });
+  }, []);
+
   return (
     <React.Fragment>
       <section id="photography">
@@ -29,30 +35,36 @@ export default function Photos() {
 
         <grid>
           <img
+            data-aos="fade-up"
             src="https://instagram.fchc2-1.fna.fbcdn.net/v/t51.2885-15/e35/p1080x1080/117333724_164802421798999_3470414266787185202_n.jpg?_nc_ht=instagram.fchc2-1.fna.fbcdn.net&_nc_cat=107&_nc_ohc=-47_TE063BoAX-9tGwK&oh=d5da0fcde6242ba19d2c008d75b4d458&oe=5F68FE5C"
             alt="gridPic"
           ></img>
 
           <img
+            data-aos="fade-up"
             src="https://instagram.fakl5-1.fna.fbcdn.net/v/t51.2885-15/e35/p1080x1080/109774359_159096299097363_4729038371639079308_n.jpg?_nc_ht=instagram.fakl5-1.fna.fbcdn.net&_nc_cat=103&_nc_ohc=EMGdUWf_2HYAX_r_kEY&oh=d1dab4d9e718f0c829c6d60bccbede2f&oe=5F6FDB96"
             alt="gridPic"
           ></img>
 
           <img
+            data-aos="fade-up"
             src="https://instagram.fakl5-1.fna.fbcdn.net/v/t51.2885-15/e35/112220923_2882357888553397_6731320521472096009_n.jpg?_nc_ht=instagram.fakl5-1.fna.fbcdn.net&_nc_cat=101&_nc_ohc=21b7M3rF524AX9m0Nmo&oh=4e7910dd003e34104ae176736faf4a75&oe=5F6E322C"
             alt="gridPic"
           ></img>
           <img
+            data-aos="fade-up"
             src="https://instagram.fakl5-1.fna.fbcdn.net/v/t51.2885-15/e35/p1080x1080/116502606_183596076489372_3867119372453521003_n.jpg?_nc_ht=instagram.fakl5-1.fna.fbcdn.net&_nc_cat=100&_nc_ohc=Ov_jdx4eU4QAX9OY4BP&oh=92948d27faca211116fa9add7a92fa6d&oe=5F7071C2"
             alt="gridPic"
           ></img>
 
           <img
+            data-aos="fade-up"
             src="https://instagram.fchc2-1.fna.fbcdn.net/v/t51.2885-15/e35/p1080x1080/116142194_301154874466604_5111491770920921665_n.jpg?_nc_ht=instagram.fchc2-1.fna.fbcdn.net&_nc_cat=108&_nc_ohc=hK_-UAYKtYgAX-bm9iL&oh=744e32b28027c36409e1cc05426eff77&oe=5F697C90"
             alt="gridPic"
           ></img>
 
           <img
+            data-aos="fade-up"
             src="https://instagram.fchc2-1.fna.fbcdn.net/v/t51.2885-15/e35/p1080x1080/116989813_139730717790781_3852198361426046407_n.jpg?_nc_ht=instagram.fchc2-1.fna.fbcdn.net&_nc_cat=101&_nc_ohc=myBvo9U1rZAAX8Oad6Q&oh=bb27fb025656a86a114303552b27d60c&oe=5F682509"
             alt="gridPic"
           ></img>
