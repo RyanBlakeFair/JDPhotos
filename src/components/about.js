@@ -37,10 +37,8 @@ export default function About() {
             textAlign: "left",
           }}
         >
-          <h1 data-aos="fade-left" style={{ textShadow: "2px 2px #000" }}>
-            Joshua Dalton
-          </h1>
-          <p data-aos="fade-left" style={{ textShadow: "2px 2px #000" }}>
+          <h1 style={{ textShadow: "2px 2px #000" }}>Joshua Dalton</h1>
+          <p style={{ textShadow: "2px 2px #000" }}>
             For me, my camera is a storytelling tool. I love being able to
             create compelling media that draws people into the story behind it.
             Whether that's through the attention to detail featured in a product
