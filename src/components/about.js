@@ -47,7 +47,7 @@ export default function About() {
             age, and I pride myself on being able to create visuals that stand
             out from the crowd.
           </p>
-          <p data-aos="fade-left" style={{ textShadow: "2px 2px #000" }}>
+          <p style={{ textShadow: "2px 2px #000" }}>
             Photographer/Videographer based in Auckland, New Zealand. I have
             professional experience shooting photo and video of products and
             events for everyone from day to day clients to multinational
