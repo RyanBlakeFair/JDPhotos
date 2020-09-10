@@ -16,7 +16,7 @@ export default function Contact() {
       message: message,
     });
     axios
-      .post("http://localhost:8080/send", {
+      .post("https://jd-media.netlify.app/.netlify/functions/sendEmail", {
         name,
         company,
         email,
